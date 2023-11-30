@@ -1,0 +1,34 @@
+Steps to upload the app on Play Store
+
+=>on Google Play Console account
+1->Create App
+	-Provide Details
+			free/paid
+			app/games etc..
+Inside Setup Your app
+	1->Provide privacy policy URL
+	2->App Access (app contains ads or not)
+	3->Content Rating
+		provide email, category and other details and click save
+	4->Target Audience->Provide Age Group & Other options
+	5->News app(if app is news app then select Yes)
+	6->Data Safety(If app collect user data then select YES)
+	7->Govt.Apps(if it is on behalf of government then click YES)
+	8->Manage Your App is Organized & Presented->Select an app create & Provide required Details
+						   ->App Category [Edit]->App(Select App Category),And provide TAG related to it
+						   ->Store listing contact detail
+							-provide=> email, phone, Logo, Short & Long Declaration
+						   ->Set up Store listing
+							Provide=>Description, App icon, banner image, and screenshot then click SAVE
+	9->Create & Publish release
+		-select countries & regions (where to publish the app)
+		-create a New release then select AAB FILE(Signed APK)
+	10->Production
+		create production->complete declaration
+		-if the app does not contain add select NO
+		SAVE
+	11->Production->GO to publication overview
+		-SEND-> Send the current app for an overview
+	**Once the App is reviewed it will live in the Google Store**	
+
+  
